@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/HasanH47/ouid)
 ![GitHub issues](https://img.shields.io/github/issues/HasanH47/ouid)
 
-Node.js package to generate optimized unique IDs with timestamp and random component.
+Node.js package designed to generate optimized unique identifiers (OUID) that incorporate both a timestamp and a random component. These identifiers are suitable for a variety of applications, including database keys, session identifiers, and unique references in distributed systems.
 
 ## Installation
 
