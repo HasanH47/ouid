@@ -1,8 +1,8 @@
 # OUID (Optimized Unique Identifier)
 
-![npm](https://img.shields.io/npm/v/ouid)
-![GitHub](https://img.shields.io/github/license/HasanH47/ouid)
-![GitHub issues](https://img.shields.io/github/issues/HasanH47/ouid)
+![npm](https://img.shields.io/npm/v/ouid-h47)
+![GitHub](https://img.shields.io/github/license/HasanH47/ouid-h47)
+![GitHub issues](https://img.shields.io/github/issues/HasanH47/ouid-h47)
 
 Node.js package to generate optimized unique IDs with timestamp and random component.
 
@@ -16,7 +16,7 @@ npm install ouid
 
 ## Usage
 ```javascript
-const { ouid } = require('ouid');
+const { ouid } = require('ouid-h47');
 
 // Generate a new optimal ID
 const newID = ouid();
