@@ -11,7 +11,7 @@ Node.js package to generate optimized unique IDs with timestamp and random compo
 Install the package using npm:
 
 ```bash
-npm install ouid
+npm install ouid-h47
 ```
 
 ## Usage
