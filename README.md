@@ -1,3 +1,4 @@
+![OUID LOGO](./Gradient_Background__Gym_Brand__Typographic_and_Illustration_Logo__1_-removebg-preview.png)
 # OUID (Optimized Unique Identifier)
 
 ![npm](https://img.shields.io/npm/v/ouid-h47)
